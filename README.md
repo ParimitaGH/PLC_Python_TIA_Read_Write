@@ -1,6 +1,5 @@
-# PLC Python TIA Portal Integration
-
-## Project Objective To establish communication between Python and Siemens S7-1200 PLC using python-snap7.
+## PLC Python TIA Portal Integration
+Project Objective To establish communication between Python and Siemens S7-1200 PLC using python-snap7.
 
 ## Technologies Used
 - Python
