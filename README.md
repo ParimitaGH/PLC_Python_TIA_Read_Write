@@ -1,5 +1,5 @@
 ## PLC Python TIA Read Write
-This Project demonstrates communication between Python and Siemens S7-1200 PLC using python-snap7 library.It supports reading from and writing to PLC data blocks in reaL time.
+This Project demonstrates communication between Python and Siemens S7-1200 PLC using python-snap7 library. It supports reading from and writing to PLC data blocks in reaL time.
 
 ## Technologies Used
 - Python
